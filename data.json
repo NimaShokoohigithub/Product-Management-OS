@@ -1,0 +1,16 @@
+{
+  "kpis": {
+    "dau": 12500,
+    "conversion_rate": 3.2,
+    "new_signups": 450
+  },
+  "sprint": {
+    "completed_tasks": 15,
+    "remaining_tasks": 4,
+    "critical_bugs_fixed": 2
+  },
+  "notes": [
+    "انتشار نسخه جدید با موفقیت انجام شد.",
+    "تیم در حال بررسی افت پرفورمنس در صفحه پرداخت است (اولویت P1)."
+  ]
+}
